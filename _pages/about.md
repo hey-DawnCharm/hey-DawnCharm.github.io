@@ -59,6 +59,17 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 IEEE</div><img src='images/000002.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[面向锂电制造的云仿真产线规划优化方法](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVttUHVLxN0qhmj-5N-EP_pTmt5QEbQcD4V60BQJw9FLQ2Kj7iHdnck_YkbjaNyXPwFlWEJLQxWyr_BKuGZkjF6eSCqGi3C7abdYGmo2aqDhl4h4VXFraN3O8dtwz-qz3weH1xrcMkc-Qj6igIciSLpZjsAZfQvGg9kpC84um8Wi8A==&uniplatform=NZKPT&language=CHS)
+
+陶雄杰; **莫小山**; 梁万新; 覃宁
+
+ [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVttUHVLxN0qhmj-5N-EP_pTmt5QEbQcD4V60BQJw9FLQ2Kj7iHdnck_YkbjaNyXPwFlWEJLQxWyr_BKuGZkjF6eSCqGi3C7abdYGmo2aqDhl4h4VXFraN3O8dtwz-qz3weH1xrcMkc-Qj6igIciSLpZjsAZfQvGg9kpC84um8Wi8A==&uniplatform=NZKPT&language=CHS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 基于云仿真平台的锂电池产线规划优化方法，解决传统产线设计中的效率低、成本高、动态调整难问题，通过虚拟仿真实现产线配置优化与资源高效调度。 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
