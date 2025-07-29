@@ -18,9 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <big>**个人简介**</big><br>
+<br>
 你好！我是莫小山。数字文化遗产保护与智能媒体技术交叉领域研究者，澳门科技大学互动媒体艺术硕士，聚焦非遗数字化、生成式AI艺术及智能交互技术。主持省市级科研项目1项，并参与多项各级课题，发表学术论文3篇，获中国国际创新大赛金奖等国家级奖项4项。擅长结合眼动追踪、用户情感化设计与人工智能技术及智能交互媒体，推动技术赋能与人文价值的融合创新。<br>
 Hello! I'm Mo Xiaoshan. I'm a researcher at the intersection of digital cultural heritage preservation and intelligent media technologies. I hold a Master of Arts in Interactive Media Arts from the Macau University of Science and Technology. My focus is on the digitization of intangible cultural heritage, generative AI art, and intelligent interactive technologies. I've led one provincial and municipal research project and participated in numerous projects at various levels. I've published three academic papers and won four national awards, including the Gold Medal at the China International Innovation Competition. I specialize in combining eye tracking, user-centered design, artificial intelligence, and intelligent interactive media to promote innovative integration of technological empowerment and humanistic values.
-
+<br>
+<br>
+<big>**研究方向**</big><br>
+聚焦数字文化遗产保护与智能媒体技术交叉领域创新研究，主要研究方向包括非物质文化遗产数字化保护，生成式人工智能艺术实证研究，基于眼动追踪技术的设计实证研究，用户体验与情感化设计研究，数字孪生及智能交互媒体研究等，致力于文化遗产数字智能技术与人文价值的有机统一。<br>
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
