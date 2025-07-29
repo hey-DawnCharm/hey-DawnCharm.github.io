@@ -43,7 +43,7 @@ Focusing on innovative research in the intersection of digital cultural heritage
 
 **Xiaoshan Mo**; Bin Hu; Caixu Xu; Yuling Yang
 
- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Project**](https://ieeexplore.ieee.org/abstract/document/10086316) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A virtual human group collaboration framework based on multi-agent reinforcement learning is proposed. Taking football matches as the application scenario, it solves the problems of team collaboration and competition among multiple agents in a dynamic environment. 
 </div>
 </div>
