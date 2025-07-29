@@ -72,12 +72,18 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 
 
 # 🎖 Honors and Awards
-- *2023.9-2025.6*  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* 2023-2024年度澳门科技大学**文化学术杰出奖**
+- *2024* 第十二届全国大学生数字媒体技术科技作品及创意竞赛**国赛二等奖**
+- *2023* 第九届中国国际大学生创新大赛（中国·天津）**金奖**及**银奖**
+- *2023* 第十一届全国大学生数字媒体技术科技作品集创意竞赛**国赛一等奖**
+- *2021* 第十四届中国大学生计算机设计大赛**国赛二等奖**
+- *2021* 第七届中国国际互联网+大学生创新创业大赛广西赛区**金奖**
+- *2020* 广西大学生计算机设计大赛**二等奖**
+- *2019* 全国3D大赛精英联赛广西赛区**一等奖**
 
 # 📖 Educations
 - *2023.09 - 2025.06*<br> **Macau University of Science and Technology**（澳门科技大学）—— 互动媒体艺术硕士<br>主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等 
-- *2018.09 - 2022.06*<br> 梧州学院（数字媒体技术专业） —— 工学学士<br>主修课程：人机交互设计、平面设计、影视剪辑及后期特效、三维建模技术、二/三维动画设计、计算机图形学、web应用开发技术  等 
+- *2018.09 - 2022.06*<br> **梧州学院**（数字媒体技术专业） —— 工学学士<br>主修课程：人机交互设计、平面设计、影视剪辑及后期特效、三维建模技术、二/三维动画设计、计算机图形学、web应用开发技术  等 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
