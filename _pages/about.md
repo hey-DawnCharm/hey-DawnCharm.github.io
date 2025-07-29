@@ -31,7 +31,7 @@ Focusing on innovative research in the intersection of digital cultural heritage
 <br>
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 贺！澳科大在中国国际大学生创新大赛收获一金三银一铜.<a href='https://mp.weixin.qq.com/s/66Y5SjfxNk3I9tdZDXACeQ'> 
+- *2024.02*: &nbsp;🎉🎉 <a href="https://mp.weixin.qq.com/s/66Y5SjfxNk3I9tdZDXACeQ"> 贺！澳科大在中国国际大学生创新大赛收获一金三银一铜.</a>
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
