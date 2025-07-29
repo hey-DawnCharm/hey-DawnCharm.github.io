@@ -88,8 +88,11 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 - *2018.09 - 2022.06*<br> **梧州学院**（数字媒体技术专业） —— 工学学士<br>主修课程：人机交互设计、平面设计、影视剪辑及后期特效、三维建模技术、二/三维动画设计、计算机图形学、web应用开发技术  等 
 
 # 💬 Research experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023*, 主持广西梧州市科学研究与技术开发项目《数字化景区“云旅游”线上体验平台》
+- *2024*, 参与2024年山东省人文社会科学课题合作项目《数字赋能下职业教育出海与人才交流新范式》，及课题项目撰写
+- *2024-2025*, 参与国家社科艺术基金、国家教育部人文社会科学一般项目、珠海市哲学社会科学课题等项目申报书撰写及课题申报
+- *2023* 参与企业委托（横向科研）项目《抽水蓄能发电组数据融合及可视化系统》
+- *2023* 参与企业委托（横向科研）项目《基于无人机场的港口可视化空中监管平台》
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
