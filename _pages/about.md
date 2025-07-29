@@ -24,10 +24,11 @@ Hello! I'm Mo Xiaoshan. I'm a researcher at the intersection of digital cultural
 <br>
 <br>
 <big>**研究方向Research direction**</big><br>
-聚焦数字文化遗产保护与智能媒体技术交叉领域创新研究，主要研究方向包括非物质文化遗产数字化保护，生成式人工智能艺术实证研究，基于眼动追踪技术的设计实证研究，用户体验与情感化设计研究，数字孪生及智能交互媒体研究等，致力于文化遗产数字智能技术与人文价值的有机统一。<br>
-Focusing on innovative research in the intersection of digital cultural heritage protection and intelligent media technology, the main research directions include digital protection of intangible cultural heritage, empirical research on generative artificial intelligence art, empirical research on design based on eye tracking technology, user experience and emotional design research, digital twins and intelligent interactive media research, etc., and are committed to the organic unity of digital intelligent technology of cultural heritage and humanistic values.
 <br>
-
+聚焦数字文化遗产保护与智能媒体技术交叉领域创新研究，主要研究方向包括非物质文化遗产数字化保护，生成式人工智能艺术实证研究，基于眼动追踪技术的设计实证研究，用户体验与情感化设计研究，数字孪生及智能交互媒体研究等，致力于文化遗产数字智能技术与人文价值的有机统一。<br>
+Focusing on innovative research in the intersection of digital cultural heritage protection and intelligent media technology, the main research directions include digital protection of intangible cultural heritage, empirical research on generative artificial intelligence art, empirical research on design based on eye tracking technology, user experience and emotional design research, digital twins and intelligent interactive media research, etc., and are committed to the organic unity of digital intelligent technology of cultural heritage and humanistic values.<br>
+<br>
+<br>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
