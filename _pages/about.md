@@ -59,7 +59,7 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 IEEE</div><img src='images/000002.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 IEEE</div><img src='images/000003.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [面向锂电制造的云仿真产线规划优化方法](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVttUHVLxN0qhmj-5N-EP_pTmt5QEbQcD4V60BQJw9FLQ2Kj7iHdnck_YkbjaNyXPwFlWEJLQxWyr_BKuGZkjF6eSCqGi3C7abdYGmo2aqDhl4h4VXFraN3O8dtwz-qz3weH1xrcMkc-Qj6igIciSLpZjsAZfQvGg9kpC84um8Wi8A==&uniplatform=NZKPT&language=CHS)
 
