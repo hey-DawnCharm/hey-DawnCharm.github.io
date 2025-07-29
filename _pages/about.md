@@ -36,7 +36,7 @@ Focusing on innovative research in the intersection of digital cultural heritage
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/000001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 IEEE</div><img src='images/000001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on virtual human swarm football collaboration technology based on reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10086316)
