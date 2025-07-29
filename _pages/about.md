@@ -76,8 +76,8 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - 2025.06*<br> **Macau University of Science and Technology**（澳门科技大学）————互动媒体艺术硕士<br>主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2025.06*<br> **Macau University of Science and Technology**（澳门科技大学）—— 互动媒体艺术硕士<br>主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等 
+- *2018.09 - 2022.06*<br> 梧州学院（数字媒体技术专业） —— 工学学士<br>主修课程：人机交互设计、平面设计、影视剪辑及后期特效、三维建模技术、二/三维动画设计、计算机图形学、web应用开发技术  等 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
