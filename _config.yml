@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "MO XIAOSHAN"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "MO XIAOSHAN<br>莫小山"
   avatar           : "images/mxs-chrome-512x512.png"
-  bio              : "Macau University of Science and Technology"
+  bio              : "Macau University of Science and Technology<br>互动媒体艺术硕士"
   location         : "Nanning, China"
   employer         :
   pubmed           : 
