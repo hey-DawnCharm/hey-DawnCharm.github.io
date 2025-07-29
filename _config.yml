@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "MO XIAOSHAN"
 description              : "A single spark can start a prairie fire."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "https://hey-dawncharm.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "text/must_mxs@163.com"
+  email            : "must_mxs@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
