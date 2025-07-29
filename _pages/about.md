@@ -72,11 +72,11 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 
 
 # 🎖 Honors and Awards
-- *2023.9-2025.6* **Macau University of Science and Technology**澳门科技大学   互动媒体艺术硕士<br> 主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等 
+- *2023.9-2025.6* **Macau University of Science and Technology**（澳门科技大学）%20%20 互动媒体艺术硕士<br> 主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2025.6*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
