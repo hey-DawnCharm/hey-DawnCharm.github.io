@@ -39,9 +39,9 @@ Focusing on innovative research in the intersection of digital cultural heritage
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/000001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on virtual human swarm football collaboration technology based on reinforcement learning]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10086316))
+[Research on virtual human swarm football collaboration technology based on reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10086316)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaoshan Mo**; Bin Hu; Caixu Xu; Yuling Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
