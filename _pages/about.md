@@ -84,7 +84,7 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 - 实用新型专利：《一种基于强化学习的多智能体训练方法及系统》（公开号：CN117009811A，公开日期：2023.11.07，排名第二）
 
 # 📖 Educations
-- *2023.09 - 2025.06*<br> **Macau University of Science and Technology**（澳门科技大学）—— 互动媒体艺术硕士<br>主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等<br><br>**毕业课题**：《A Generative Visual Study of Guangxi Zhuang Brocade patterns based on A fine-tuned Diffusion Model》（《基于微调扩散模型的生成式广西壮锦纹样视觉研究》） 
+- *2023.09 - 2025.06*<br> **Macau University of Science and Technology**（澳门科技大学）—— 互动媒体艺术硕士<br>主修课程：交互设计概论、人机交互研究、游戏策划、游戏引擎设计、游戏技术研究、界面与音效设计、互动媒体业务 等<br><br>**毕业课题**：《A Generative Visual Study of Guangxi Zhuang Brocade patterns based on A fine-tuned Diffusion Model》（《基于微调扩散模型的生成式广西壮锦纹样视觉研究》）<br>**主要内容**：研究基于Stable Diffusion扩散模型，针对壮锦纹样样式的生成与视觉特征展开深入探讨。通过构建传统壮锦纹样的高质量数据集，训练并优化生成演算法，探索如何以数据驱动的方法突破传统纹样设计的局限。进一步地，通过结合眼动追踪实验与视觉偏好分析，从用户感知层面评估生成式壮锦纹样的吸引力与设计潜力。<br> 
 - *2018.09 - 2022.06*<br> **梧州学院**（数字媒体技术专业） —— 工学学士<br>主修课程：人机交互设计、平面设计、影视剪辑及后期特效、三维建模技术、二/三维动画设计、计算机图形学、web应用开发技术  等 
 
 # 💬 Research experience
