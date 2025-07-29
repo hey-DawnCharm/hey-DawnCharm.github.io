@@ -39,13 +39,12 @@ Focusing on innovative research in the intersection of digital cultural heritage
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 IEEE</div><img src='images/000001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Research on virtual human swarm football collaboration technology based on reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10086316)
 
 **Xiaoshan Mo**; Bin Hu; Caixu Xu; Yuling Yang
 
  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A virtual human group collaboration framework based on multi-agent reinforcement learning is proposed. Taking football matches as the application scenario, it solves the problems of team collaboration and competition among multiple agents in a dynamic environment. 
 </div>
 </div>
 
