@@ -101,4 +101,4 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 # 💡 Other skills
 - **办公方面**：掌握Microsoft Office及WPS Office等办公软件操作及使用
 - **设计方面**：掌握Adobe Photoshop、Adobe Premiere、Adobe After Effects、Adobe Illustrator、Adobe Indesign等音、视频设计软件操作及使用，并掌握平面设计、影视设计等实践技能
-- **其他方面**：掌握无人机航拍、测绘，各类拍摄器材操作及视频制作全流程等技能
+- **其他方面**：掌握无人机航拍（曾担任2019兴安灵渠古运河马拉松航拍手）、测绘，各类拍摄器材操作及视频制作全流程等技能（曾多次负责或参与完成梧州学院、梧州职业技术学院、梧州市烟草局、梧州市第一幼儿园等企事业单位不同类型影片的拍摄与制作）
