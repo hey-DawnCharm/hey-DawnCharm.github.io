@@ -43,7 +43,7 @@ Focusing on innovative research in the intersection of digital cultural heritage
 
 **Xiaoshan Mo**; Bin Hu; Caixu Xu; Yuling Yang
 
- [**Project**](https://ieeexplore.ieee.org/abstract/document/10086316) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Abstract**](https://ieeexplore.ieee.org/abstract/document/10086316) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A virtual human group collaboration framework based on multi-agent reinforcement learning is proposed. Taking football matches as the application scenario, it solves the problems of team collaboration and competition among multiple agents in a dynamic environment. 
 </div>
 </div>
@@ -54,7 +54,7 @@ Focusing on innovative research in the intersection of digital cultural heritage
 
 Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 
- [**Project**](https://ieeexplore.ieee.org/abstract/document/10086165) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Abstract**](https://ieeexplore.ieee.org/abstract/document/10086165) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A virtual human soccer dribbling control strategy that combines lightweight physics with pre-edited animations addresses the stiff movements and computational complexity caused by traditional full-body physics simulations. The strategy is validated using the ancient Chinese sport of Cuju. 
 </div>
 </div>
@@ -65,7 +65,7 @@ Yuling Yang; Caichun Cen; **Xiaoshan Mo**; Jingjie Liao
 
 陶雄杰; **莫小山**; 梁万新; 覃宁
 
- [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVttUHVLxN0qhmj-5N-EP_pTmt5QEbQcD4V60BQJw9FLQ2Kj7iHdnck_YkbjaNyXPwFlWEJLQxWyr_BKuGZkjF6eSCqGi3C7abdYGmo2aqDhl4h4VXFraN3O8dtwz-qz3weH1xrcMkc-Qj6igIciSLpZjsAZfQvGg9kpC84um8Wi8A==&uniplatform=NZKPT&language=CHS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ [**Abstract**](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVttUHVLxN0qhmj-5N-EP_pTmt5QEbQcD4V60BQJw9FLQ2Kj7iHdnck_YkbjaNyXPwFlWEJLQxWyr_BKuGZkjF6eSCqGi3C7abdYGmo2aqDhl4h4VXFraN3O8dtwz-qz3weH1xrcMkc-Qj6igIciSLpZjsAZfQvGg9kpC84um8Wi8A==&uniplatform=NZKPT&language=CHS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 基于云仿真平台的锂电池产线规划优化方法，解决传统产线设计中的效率低、成本高、动态调整难问题，通过虚拟仿真实现产线配置优化与资源高效调度。 
 </div>
 </div>
